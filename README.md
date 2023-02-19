@@ -1,12 +1,4 @@
-# Region Normalized Relativistic Generative Adversarial Network for Non-Parallel Voice Conversion
 
-<p align="center">
-    <strong>Authors</strong>
-  <p align="center">
-     <a>Sandipan Dhar</a> • <a>Md.Tousin Akhter</a> • <a>Nanda Dulal Jana</a> • <a>Swagatam Das</a>
-    
-  </p>
-</p>
 
 This repository contains the imorovements incorporated into MaskCycleGAN-VC to come up with a enhanced Region Normalized Relativistic Generative Adversarial Network. Our work was evaluated on datasets VCC 2018 and CMU Arctic and fetched us superior results in comparison to MaskCycleGAN-VC.
 
